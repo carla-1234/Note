@@ -1,2 +1,2 @@
 # Note
-Notes app with Python. Just write enough text with the plugin
+Notes app with Python. Just enter enough text
